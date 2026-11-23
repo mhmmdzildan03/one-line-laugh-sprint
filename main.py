@@ -1,14 +1,14 @@
 """Write one everyday-life joke to /output/entry.txt.
 
-The joke: at midnight the fridge lights up bright when opened,
-as if it wants both of us to get a clear look at my life choices.
-One line, 117 characters.
+The joke: I sealed leftovers so future me would have lunch, and
+future me threw them out like evidence. A three-act arc in one
+line, 105 characters, chosen over five challenger lines in-session.
 """
 import os
 
 TEXT = (
-    "At midnight my fridge lights up bright when I open it, as if it "
-    "wants us both to get a clear look at my life choices."
+    "I put leftovers in a container so future me would have lunch, "
+    "and future me threw them out like evidence."
 )
 
 
